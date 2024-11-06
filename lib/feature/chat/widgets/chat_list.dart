@@ -24,7 +24,6 @@ class ChatList extends StatelessWidget {
             return ListTile(
               contentPadding: EdgeInsets.symmetric(horizontal: 0),
               leading: Stack(
-                // alignment: Alignment.bottomRight,
                 children: [
                   CircleAvatar(
                     radius: 30,
